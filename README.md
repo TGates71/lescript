@@ -1,3 +1,9 @@
+# Lescript customized for SenCrypt. A Sentora Hosting Control Panel module.
+
+> **Note**: This version is designed to work with SenCrypt SSL Manager module for [Sentora Hosting Control Panel](https://sentora.org)
+
+
+
 # Simple Let's encrypt client concept in PHP
 
 > **Note**: lescript is standalone part of [LEManager](https://github.com/analogic/lemanager)
